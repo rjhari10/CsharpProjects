@@ -1,0 +1,14 @@
+C:\CsharpProjects\RandomDiceGame\bin\Debug\net8.0\RandomDiceGame.exe
+C:\CsharpProjects\RandomDiceGame\bin\Debug\net8.0\RandomDiceGame.deps.json
+C:\CsharpProjects\RandomDiceGame\bin\Debug\net8.0\RandomDiceGame.runtimeconfig.json
+C:\CsharpProjects\RandomDiceGame\bin\Debug\net8.0\RandomDiceGame.dll
+C:\CsharpProjects\RandomDiceGame\bin\Debug\net8.0\RandomDiceGame.pdb
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.AssemblyInfoInputs.cache
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.AssemblyInfo.cs
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.csproj.CoreCompileInputs.cache
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.dll
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\refint\RandomDiceGame.dll
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.pdb
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.genruntimeconfig.cache
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\ref\RandomDiceGame.dll
