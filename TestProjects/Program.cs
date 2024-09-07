@@ -1,10 +1,23 @@
-﻿int[] inventory = { 200, 450, 700, 175, 250};
-int sum = 0;
-int bin = 0;
-foreach (int items in inventory)
+﻿/*
+    The following code takes a string, converts it a a charArray,
+    to reverse and display the message.
+
+    It then checks for the number of occurances of the letter 'o' and displays the count.
+*/
+
+string originalMessage = "The quick brown fox jumps over the lazy dog.";
+
+char[] message = originalMessage.ToCharArray();
+Array.Reverse(message);
+string newMessage = new String(message);
+Console.WriteLine(newMessage);
+
+int letterCount = 0;
+foreach (char letter in message)
 {
-    sum += items;
-    bin++;
-    Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+    if (letter == 'o')
+    {
+        letterCount++;
+    }
 }
-Console.WriteLine($"We have {sum} items in inventory.");
+Console.WriteLine($"'o' appears {letterCount} times.");
