@@ -12,3 +12,4 @@ C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\refint\RandomDiceGame.dll
 C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.pdb
 C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.genruntimeconfig.cache
 C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\ref\RandomDiceGame.dll
+C:\CsharpProjects\RandomDiceGame\obj\Debug\net8.0\RandomDiceGame.sourcelink.json
